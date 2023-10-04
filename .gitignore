@@ -25,7 +25,6 @@ with_time_logs/
 .hypothesis
 .array_api_tests_k_flag*
 internal_automation_tools/
-.vscode/*
 .idea/*
 .ivy/*
 *.so
@@ -45,3 +44,7 @@ venv.bak/
 ivy_dev/
 *venv/
 venv*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
