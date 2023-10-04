@@ -25,7 +25,6 @@ with_time_logs/
 .hypothesis
 .array_api_tests_k_flag*
 internal_automation_tools/
-.vscode/*
 .idea/*
 .ivy/*
 *.so
@@ -35,7 +34,6 @@ ivy/engines/XLA/rust_api/target/
 ivy/engines/XLA/rust_api/xla_extension/
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -45,3 +43,9 @@ venv.bak/
 ivy_dev/
 *venv/
 venv*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
